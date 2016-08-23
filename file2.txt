@@ -1,0 +1,5 @@
+This is the second file that we are working on.
+
+We were told to make this so that we can get used to working with git.
+
+This is a little redundant but it's good practice for us.
