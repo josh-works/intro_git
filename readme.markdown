@@ -21,8 +21,8 @@ marginally so. Here we go:
               |    |
              /      \
             /        \
-           /  UNITED  \
-          /   STATES   \
+           /   SPACE  \
+          /      X     \
          /              \
          ----------------
          |--------------|
