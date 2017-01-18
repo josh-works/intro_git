@@ -3,3 +3,4 @@ This is a test file.
 We are using this to commit to Git so we can track our changes.
 
 Pay no attention to the man behind the curtains.
+I will pay attention to the man behind the curtains if I feel so inclined.
