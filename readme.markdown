@@ -73,8 +73,11 @@ Here's a few more changes. Now I'm kicking around the [Git Plus](https://atom.io
 Just figured out that if I make changes on `master`, and have not commited anything, and they don't conflict with any branch, i can push the changes over to a branch, real easy-like:
 
 from branch `master`:
-`git stash`
-`git co <branch_name>`
-`git stash pop`
+
+- `git stash`
+
+- `git co <branch_name>`
+
+- `git stash pop`
 
 now `master` is clean, changes are over on `my_branch`
